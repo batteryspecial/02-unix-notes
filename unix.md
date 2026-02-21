@@ -69,7 +69,7 @@ __What is Linux?__
 
 The UNIX file system is organized under "/", the root directory.
 
-![alt text](http://www.openbookproject.net/tutorials/getdown/unix/images/lesson2/UnixDirectoryTree.png)
+![alt text](image.png)
 
 For example you could host your personal site under `public_html`.
 
