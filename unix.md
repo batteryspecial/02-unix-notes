@@ -2,7 +2,7 @@
 
 An operating system provides an abstraction layer for clients to interact with the underlying resources of a computer. The OS manages apps, time sharing, communication, fair use of CPU, memory, and devices. It also prevents misbehavior and the UI can be graphical or command line.
 
-![alt text](<截屏2026-01-22 下午10.36.55.png>)
+![alt text](static/image0.png)
 
 ## The Shell
 
@@ -69,7 +69,7 @@ __What is Linux?__
 
 The UNIX file system is organized under "/", the root directory.
 
-![alt text](image.png)
+![alt text](static/image1.png)
 
 For example you could host your personal site under `public_html`.
 
@@ -613,7 +613,7 @@ Every command is associated with three standard files!
 
 In UNIX, `stdin`, `stdout`, `stderr`. In C++, we have our streams `cin`, `cout`, `cerr`. By default these are connected to the keyboard (input) and the UI (output & error).
 
-![alt text](<截屏2026-02-01 下午11.01.01.png>)
+![alt text](static/image2.png)
 
 ## Example with `sort`
 
