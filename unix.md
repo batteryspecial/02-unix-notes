@@ -49,8 +49,8 @@ As you can see there are some big names up there.
 
 1. GCC (Gnu Compiler Collection)
     - gcc, g++, ...
-2. ` glibc` (Gnu C library)
-3. GNU coreutilities (`ls`, `cp`/`rm`/`mv`, `chmod`, ...)
+2. `glibc` (Gnu C library)
+3. GNU core utilities (`ls`, `cp`/`rm`/`mv`, `chmod`, ...)
 4. Some other stuff too (a shell, `gdb`, ...)
 5. Not an actual OS kernel!
 
